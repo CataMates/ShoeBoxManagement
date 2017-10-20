@@ -1,0 +1,2 @@
+TRIGGER PROCEDURE FOR CREATE OF Sponsor.
+assign sponsor.SponsorNum = next-value(next_Sponsor).

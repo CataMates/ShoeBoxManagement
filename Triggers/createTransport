@@ -1,0 +1,2 @@
+TRIGGER PROCEDURE FOR CREATE OF Transport.
+assign transport.TransportNum = next-value(next_Transport).

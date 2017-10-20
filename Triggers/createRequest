@@ -1,0 +1,2 @@
+TRIGGER PROCEDURE FOR CREATE OF Request.
+assign request.requestNum = next-value(next_request).

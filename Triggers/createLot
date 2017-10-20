@@ -1,0 +1,2 @@
+TRIGGER PROCEDURE FOR CREATE OF Lot.
+assign lot.lotNum = next-value(next_lot).

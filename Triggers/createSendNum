@@ -1,0 +1,2 @@
+TRIGGER PROCEDURE FOR CREATE OF Sender.
+assign sender.sendNum = next-value(next_sender).
